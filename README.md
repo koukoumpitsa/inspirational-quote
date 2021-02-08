@@ -1,2 +1,3 @@
 # inspirational-quote
-Created with CodeSandbox
+
+Using Fetch API onClick events to generate new quotes. 
