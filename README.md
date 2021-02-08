@@ -1,4 +1,4 @@
-# inspirational-quote
+# inspirational-quote :notebook:
 
 First complete project on using Fetch API onClick events to generate new quotes.  
 Project was completed in Dec. 2020 and was given an administrational update in Feb. 2021
